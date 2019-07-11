@@ -1,6 +1,6 @@
 # Custom colormaps with or without transparency
 
-This code has originaly be developped by Chris Slocum and modified during my PhD (2014-2019) since it is sometimes desirable to build transparency colormaps for vizualisations
+This code has originaly been developped by Chris Slocum and modified during my PhD (2014-2019) since it is sometimes desirable to build transparency colormaps for vizualisations
 
 
 A small routine to generate custom colormaps for [Matplotlib](https://matplotlib.org/).
